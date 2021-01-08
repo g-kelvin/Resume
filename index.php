@@ -8,10 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="en">
 <head>
 <title>Kelvin N. Gauki Portfolio</title> 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Easy Resume Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-	SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Custom Theme files -->
 <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
@@ -39,7 +36,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<div class="menu">
 					<ul class="nav navbar"> 
-						<li><a href="index.html" class="w3ls-hover"><span data-letters="Home">Home</span></a></li>
+						<li><a href="http://softwaretechn.co.ke/" class="w3ls-hover"><span data-letters="Home">Home</span></a></li>
 						<li><a href="#" data-toggle="modal" data-target="#about" class="w3ls-hover"><span data-letters="About">About </span></a></li>
 						<li><a href="#" data-toggle="modal" data-target="#skill" class="w3ls-hover"><span data-letters="Skills">Skills</span></a></li>
 						<li><a href="#" data-toggle="modal" data-target="#experience" class="w3ls-hover"><span data-letters="Experience">Experience </span></a></li>
