@@ -44,7 +44,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<li><a href="#" data-toggle="modal" data-target="#skill" class="w3ls-hover"><span data-letters="Skills">Skills</span></a></li>
 						<li><a href="#" data-toggle="modal" data-target="#experience" class="w3ls-hover"><span data-letters="Experience">Experience </span></a></li>
 						<li><a href="#" data-toggle="modal" data-target="#education" class="w3ls-hover"><span data-letters="Education">Education </span></a></li>
-						<li><a href="#" data-toggle="modal" data-target="#work" class="w3ls-hover"><span data-letters="Work">Work</span></a></li>
+						<li><a href="#" data-toggle="modal" data-target="#work" class="w3ls-hover"><span data-letters="Project">Projects</span></a></li>
 						<li><a href="#" data-toggle="modal" data-target="#contact" class="w3ls-hover"><span data-letters="Contact">Contact </span></a></li> 
 						<li><a class="w3ls-icon" href="#"><span class="glyphicon glyphicon-save"></span></a></li> 
 					</ul>
@@ -363,11 +363,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div> 
 						<div class="experience-grids experience-grids-btm">
 							<div class="experience-left">
-								<h3>Dec 2019- Oct 2020 Part-Time</h3>
+								<h3>Dec 2019- Oct 2020</h3>
 								<h5>Protocol Promotions Limited</h5>
 							</div>
 							<div class="experience-right">
-								<h4>Graphic Designer</h4>
+								<h4>Graphic Designer (Part-Time)</h4>
 								<p>Software developer in automating their services and developing their website <br>
 									Graphic Designer for their brandings using CorelDraw and Illustrator.<br>
 									Monitoring and managing their social media pages.<br>
@@ -382,13 +382,65 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="experience-right">
 								<h4>Software Developer</h4>
-								<p>Develops software solutions by studying information needs; conferring with users; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle.<br>
-									Determines operational feasibility by evaluating analysis, problem denition, requirements, solution development, and proposed solutions.<br>
+								<p> - Develops software solutions by studying information needs; conferring with users; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle.<br>
+									Determines operational feasibility by evaluating analysis, problem denition, requirements, solution development, and proposed solutions.
 
 								</p>
+								<p>
+									- Determines operational feasibility by evaluating analysis, problem definition, requirements, solution development, and proposed solutions.
+								</p>
+								<p> - Data Development and Data Pod System that collect farmers Data, analysis the data and generate automated reports.</p>
+								<p> - Development of traceability system that traces fresh fruits and vegetables from the farm to the market /plate</p>
+								<p>Automation of certification forms and ease auditors work</p>
+								<p> - Making sure all the laptop and desktop software in the office are upto date.</p>
+								<p> - Development of the company tradecare Responsive website. Also development of website for other companies attached to the parent company Tradecare Africa</p>
+								
 							</div>
 							<div class="clearfix"> </div>
 						</div>
+						<!-- Start Experince -->
+						<div class="experience-grids experience-grids-btm">
+							<div class="experience-left">
+								<h3>July 2017- Aug 2017 </h3>
+								<h5>Kenya Power</h5>
+							</div>
+							<div class="experience-right">
+								<h4>IT Intern</h4>
+								<p>My Roles Were: <br>
+									- I was attached at Kenya power ITC department where I was working on the following sectors: Network monitoring and Security, Radio Planning and Rollout, Point to Point Radio (Last Mile Network), VSAT Links, IP Telecommunication System, Mobile Worker Technology, Splicing and Testing, Leased Lines, IP Telephony and Contact Centre support, Repair and Maintenance of Air Conditioners, Telephone and Video Conferencing, Automatic Meter Reading System and WAN/LAN Network Support and SCADA Systems.</p>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+						<!-- End Experince -->
+						<!-- Start Experince -->
+						<div class="experience-grids experience-grids-btm">
+							<div class="experience-left">
+								<h3>March 2016- March 2016 </h3>
+								<h5>Kenya Education Network (KENET)</h5>
+							</div>
+							<div class="experience-right">
+								<h4>Data Entry Intern</h4>
+								<p>My Roles Were: <br>
+									- I was selected to participate in KENET readiness survey data entry exercise</p>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+						<!-- End Experince -->
+
+						<!-- Start Experince -->
+						<div class="experience-grids experience-grids-btm">
+							<div class="experience-left">
+								<h3>Nov 2013- Sept 2014 </h3>
+								<h5>Option General Stores Limited</h5>
+							</div>
+							<div class="experience-right">
+								<h4>Intern</h4>
+								<p>My Roles Were: <br>
+									- I worked as a front desk seller and stock overseer at Option Limited.</p>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+						<!-- End Experince -->
 					</div>
 				</div> 
 			</div>
@@ -407,23 +459,35 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="experience">  
 						<div class="experience-grids">
 							<div class="experience-left">
-								<h3>2011<span>(2 Years Course)</span> </h3>
-								<h5> University Name</h5>
+								<h3>2013 To 2018 </h3>
+								<h5> University of Nairobi</h5>
 							</div>
 							<div class="experience-right">
-								<h4>Master of Web Design</h4>
-								<p>Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum iaculis enim, non convallis felis mattis at</p>
+								<h4>Bachelor of Computer Science</h4>
+								<p>I did Bachelor of Computer Science where i Graduated with <b>Second Class Honor.</b>I specialized with Software Development , Databases and Graphic Design.</p>
 							</div>
 							<div class="clearfix"> </div>
 						</div> 
 						<div class="experience-grids experience-grids-btm">
 							<div class="experience-left">
-								<h3>2009<span>(3 Years Course)</span></h3>
-								<h5> University Name</h5>
+								<h3>2010 To 2013</h3>
+								<h5> Mwaani Boys High School</h5>
 							</div>
 							<div class="experience-right">
-								<h4>Diploma in Design</h4>
-								<p>Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum iaculis enim, non convallis felis mattis at</p>
+								<h4>Kenya Certificate of Secondary Education</h4>
+								<p>I attended Mwaani Boys High School where i graduated with B- Grade.</p>
+							</div>
+							<div class="clearfix"> </div>
+						</div> 
+
+						<div class="experience-grids experience-grids-btm">
+							<div class="experience-left">
+								<h3>2010 <span>8 years Course</span></h3>
+								<h5> Royal Comprehensive Academy Mikindani</h5>
+							</div>
+							<div class="experience-right">
+								<h4>Kenya Certificate of Primary Education</h4>
+								<p>I attendedRoyal Comprehensive Academy Mikindani where i graduated with B- Grade.</p>
 							</div>
 							<div class="clearfix"> </div>
 						</div> 
@@ -446,8 +510,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="gallery-row"> 
 							<div class="col-md-4 gallery-grids">
 								<div class="gallery-w3ls-hover">
-									<a href="images/g1.jpg" data-lightbox="example-set" data-title="Lorem Ipsum is simply dummy the when an unknown galley">
-										<img src="images/g1.jpg" class="img-responsive zoom-img" alt=""/>
+									<a href="images/p-01.png" data-lightbox="example-set" data-title="System to profile Matatu Saccos in Kenya">
+										<img src="images/p-01.png" class="img-responsive zoom-img" alt=""/>
 										<div class="view-caption">
 											<h5>View+</h5> 
 										</div>
@@ -456,8 +520,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="col-md-4 gallery-grids">
 								<div class="gallery-w3ls-hover">
-									<a href="images/g2.jpg" data-lightbox="example-set" data-title="Sed ut perspiciatis unde omnis iste natus error sit">
-										<img src="images/g2.jpg" class="img-responsive zoom-img" alt=""/>
+									<a href="images/p-02.png" data-lightbox="example-set" data-title="System to Report any kind of accident instantly with your phone">
+										<img src="images/p-02.png" class="img-responsive zoom-img" alt=""/>
 										<div class="view-caption">
 											<h5>View+</h5> 
 										</div>
@@ -466,8 +530,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="col-md-4 gallery-grids">
 								<div class="gallery-w3ls-hover">
-									<a href="images/g3.jpg" data-lightbox="example-set" data-title="Eaque ipsa quae ab illo inventore veritatis et quasi">
-										<img src="images/g3.jpg" class="img-responsive zoom-img" alt=""/>
+									<a href="images/p-03.png" data-lightbox="example-set" data-title="I Program sensor to detect temperaature, Humidity , Light and Movement">
+										<img src="images/p-03.png" class="img-responsive zoom-img" alt=""/>
 										<div class="view-caption">
 											<h5>View+</h5> 
 										</div>
@@ -476,8 +540,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="col-md-4 gallery-grids">
 								<div class="gallery-w3ls-hover">
-									<a href="images/g4.jpg" data-lightbox="example-set" data-title="Lorem Ipsum is simply dummy the when an unknown galley">
-										<img src="images/g4.jpg" class="img-responsive zoom-img" alt=""/>
+									<a href="images/p-04.png" data-lightbox="example-set" data-title="I have developed 100+ websites which are online currently">
+										<img src="images/p-04.png" class="img-responsive zoom-img" alt=""/>
 										<div class="view-caption">
 											<h5>View+</h5> 
 										</div>
@@ -486,8 +550,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="col-md-4 gallery-grids">
 								<div class="gallery-w3ls-hover">
-									<a href="images/g5.jpg" data-lightbox="example-set" data-title="Sed ut perspiciatis unde omnis iste natus error sit">
-										<img src="images/g5.jpg" class="img-responsive zoom-img" alt=""/>
+									<a href="images/p-05.png" data-lightbox="example-set" data-title="I have done both Android and IOS Mobile APPs.">
+										<img src="images/p-05.png" class="img-responsive zoom-img" alt=""/>
 										<div class="view-caption">
 											<h5>View+</h5> 
 										</div>
@@ -496,8 +560,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="col-md-4 gallery-grids">
 								<div class="gallery-w3ls-hover">
-									<a href="images/g6.jpg" data-lightbox="example-set" data-title="Lorem Ipsum is simply dummy the when an unknown galley">
-										<img src="images/g6.jpg" class="img-responsive zoom-img" alt=""/>
+									<a href="images/p-06.png" data-lightbox="example-set" data-title="I developed Nonini show website called Rhymes Na Nonini.">
+										<img src="images/p-06.png" class="img-responsive zoom-img" alt=""/>
 										<div class="view-caption">
 											<h5>View+</h5> 
 										</div>
@@ -506,8 +570,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="col-md-4 gallery-grids">
 								<div class="gallery-w3ls-hover">
-									<a href="images/g3.jpg" data-lightbox="example-set" data-title="Sed ut perspiciatis unde omnis iste natus error sit">
-										<img src="images/g3.jpg" class="img-responsive zoom-img" alt=""/>
+									<a href="images/p-07.png" data-lightbox="example-set" data-title="I have developed Online learning Platform which is in use by 50+ schools and companies">
+										<img src="images/p-07.png" class="img-responsive zoom-img" alt=""/>
 										<div class="view-caption">
 											<h5>View+</h5> 
 										</div>
@@ -516,8 +580,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="col-md-4 gallery-grids">
 								<div class="gallery-w3ls-hover">
-									<a href="images/g1.jpg" data-lightbox="example-set" data-title="Eaque ipsa quae ab illo inventore veritatis et quasi">
-										<img src="images/g1.jpg" class="img-responsive zoom-img" alt=""/>
+									<a href="images/p-08.png" data-lightbox="example-set" data-title="I have developed over 20 Ecommerce system that allow people to shop online ">
+										<img src="images/p-08.png" class="img-responsive zoom-img" alt=""/>
 										<div class="view-caption">
 											<h5>View+</h5> 
 										</div>
@@ -526,14 +590,38 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="col-md-4 gallery-grids">
 								<div class="gallery-w3ls-hover">
-									<a href="images/g2.jpg" data-lightbox="example-set" data-title="Lorem Ipsum is simply dummy the when an unknown galley">
-										<img src="images/g2.jpg" class="img-responsive zoom-img" alt=""/>
+									<a href="images/p-09.png" data-lightbox="example-set" data-title="I have done ">
+										<img src="images/p-09.png" class="img-responsive zoom-img" alt=""/>
 										<div class="view-caption">
 											<h5>View+</h5> 
 										</div>
 									</a>
 								</div>
 							</div>
+
+							<div class="col-md-4 gallery-grids">
+								<div class="gallery-w3ls-hover">
+									<a href="images/p-10.png" data-lightbox="example-set" data-title="I have done Rent Managing System that help Landlord in Rental house management ">
+										<img src="images/p-10.png" class="img-responsive zoom-img" alt=""/>
+										<div class="view-caption">
+											<h5>View+</h5> 
+										</div>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-md-4 gallery-grids">
+								<div class="gallery-w3ls-hover">
+									<a href="images/p-11.png" data-lightbox="example-set" data-title="I have done ">
+										<img src="images/p-11.png" class="img-responsive zoom-img" alt=""/>
+										<div class="view-caption">
+											<h5>View+</h5> 
+										</div>
+									</a>
+								</div>
+							</div>
+
+
 							<div class="clearfix"> </div>
 						</div>
 						<!--  light box js -->
@@ -557,32 +645,77 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="contact"> 
 						<div class="contact-w3lsrow">
 							<div class="col-md-6 contact-left w3-agileits">
-								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9503398796587!2d-73.9940307!3d40.719109700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a27e2f24131%3A0x64ffc98d24069f02!2sCANADA!5e0!3m2!1sen!2sin!4v1441710758555" allowfullscreen></iframe>
+								<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8423538156258!2d36.83231811475396!3d-1.267323199075646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f16dca29a6eb1%3A0x12b2c5a114dff80a!2sShowbe%20Plaza!5e0!3m2!1sen!2ske!4v1610130263199!5m2!1sen!2ske" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 							</div>
 							<div class="col-md-6 contact-right">
-								<form action="#" method="post">
+								<form action="" method="post">
 									<div class="styled-input agile-styled-input-top">
-										<input type="text" name="Name" required="">
+										<input type="text" name="name" required="">
 										<label>Name</label>
 										<span></span>
 									</div>
 									<div class="styled-input">
-										<input type="text" name="Email" required=""> 
+										<input type="text" name="tel" required=""> 
+										<label>Tel No:</label>
+										<span></span>
+									</div>
+									<div class="styled-input">
+										<input type="text" name="email" required=""> 
 										<label>Email</label>
 										<span></span>
 									</div> 
 									<div class="styled-input">
-										<input type="text" name="Subject" required="">
+										<input type="text" name="subject" required="">
 										<label>Subject</label>
 										<span></span>
 									</div>
 									<div class="styled-input">
-										<textarea name="Message" required=""></textarea>
+										<textarea name="message" required=""></textarea>
 										<label>Message</label>
 										<span></span>
 									</div>	 
-									<input type="submit" value="SEND">
+									<input type="submit" name="submit" value="SEND">
 								</form>
+
+
+									<?php 
+   										 if(isset($_POST['submit'])){
+        										$name = $_POST['name'];
+        										$email = $_POST['email'];
+        										$tel = $_POST['tel'];
+        										$subject = $_POST['subject'];
+        										$message = $_POST['message'];
+
+        
+       
+        										$to = "kelvin@softwaretechn.co.ke";
+        										$subject ="Email from Website Contact Page. Subjects is: ".$subject;
+        										$message ="My Name is : ".$name. " of Email: ".$email." and Tel". $tel." The Following is my message: ".$message;
+        										$headers ="From: ".$email;
+         										if(mail($to,$subject,$message,$headers)){
+            
+          										echo " <b>Message Sent. Thank You $name  for your Message.<b>";
+										}
+
+										else {
+    										echo "Not Sent";
+    
+										}
+
+       
+
+
+    										}
+    										else
+   										 {
+        										echo "try again";
+    										}
+
+ 										?>
+
+
+
+
 							</div>
 							<div class="clearfix"> </div>
 						</div>  
