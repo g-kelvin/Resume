@@ -1,14 +1,11 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <title>Kelvin N. Gauki Portfolio</title> 
-<
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Custom Theme files -->
 <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
@@ -32,7 +29,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					Menu=
 				</button>
 			</div>
-			<!-- Collect the nav links, forms, and other content for toggling -->
+		
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<div class="menu">
 					<ul class="nav navbar"> 
@@ -115,8 +112,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div> 
 						<div class="clearfix"> </div> 
 						<div class="about-text agileits-w3layouts"> 
-							<p>Am a creative and articulate communicator who inspires condence with strong written and oral Communication skills, quick to learn humble and patient person. Also a good dynamic leader with good managerial qualities, versatile and self-driven caliber used to working with deadline.</p>
-							<p class="agile-br"> I am committed to providing an excellent standard of customer service (in Software Develeopment and graphics Design) and have outstanding communication skills along with the ability to work within a wider range of people.I thrive in fast paced, pressurized environments and have a high level of energy and enthusiasm.I work well in a team and can motivate and encourage others, listening clearly to instructions and communicating them to my colleagues.I am a very friendly, sociable person and love meeting new people.I am organised and tidy, able to respond to any issues quickly and politely and I have excellent observational skills which enable me to develop best systems , apps , Graphics and website for my customers.  </p>
+							<p>Am a creative and articulate communicator who inspires confidence with strong written and oral Communication skills, quick to learn humble and patient person. Also a good dynamic leader with good managerial qualities, versatile and self-driven caliber used to working with deadline.</p>
+							<p class="agile-br"> I am committed to providing an excellent standard of customer service (in Software Development and graphics Design) and have outstanding communication skills along with the ability to work within a wider range of people. I thrive in fast paced, pressurized environments and have a high level of energy and enthusiasm. I work well in a team and can motivate and encourage others, listening clearly to instructions and communicating them to my colleagues. I am a very friendly, sociable person and love meeting new people. I am organized and tidy, able to respond to any issues quickly and politely and I have excellent observational skills which enable me to develop best systems , apps , Graphics and website for my customers.  </p>
 						</div>
 					</div>
 				</div> 
@@ -380,7 +377,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<div class="experience-right">
 								<h4>Software Developer</h4>
 								<p> - Develops software solutions by studying information needs; conferring with users; studying systems flow, data usage, and work processes; investigating problem areas; following the software development lifecycle.<br>
-									Determines operational feasibility by evaluating analysis, problem denition, requirements, solution development, and proposed solutions.
+									- Determines operational feasibility by evaluating analysis, problem denition, requirements, solution development, and proposed solutions.
 
 								</p>
 								<p>
@@ -388,7 +385,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</p>
 								<p> - Data Development and Data Pod System that collect farmers Data, analysis the data and generate automated reports.</p>
 								<p> - Development of traceability system that traces fresh fruits and vegetables from the farm to the market /plate</p>
-								<p>Automation of certification forms and ease auditors work</p>
+								<p>- Automation of certification forms and ease auditors work</p>
 								<p> - Making sure all the laptop and desktop software in the office are upto date.</p>
 								<p> - Development of the company tradecare Responsive website. Also development of website for other companies attached to the parent company Tradecare Africa</p>
 								
@@ -729,11 +726,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<p>© 2020 Kelvin Gauki Ngari. All rights reserved | Design by <a href="https://softwaretechn.co.ke">Software Technology Kenya</a></p>
 		</div>
 	</div>
-	<!-- //footer --> 
-	
-	<!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+
     <script src="js/bootstrap.js"></script>
 </body>
 </html>
